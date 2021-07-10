@@ -226,3 +226,5 @@ Backend | RESTful API backend for Casnode | Golang + Beego + MySQL | https://git
 - Open browser:
 
     http://localhost:3000/
+    
+#### This is qqynode version~
