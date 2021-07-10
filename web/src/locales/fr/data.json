@@ -12,27 +12,27 @@
     "Password": "Le mot de passe",
     "Forgot Password": "Mot de passe oublie",
     "Username, email address or phone number": "Username, email address or phone number",
-    "true": "true",
-    "false": "false",
-    "Homepage": "Homepage",
+    "true": "vrai",
+    "false": "faux",
+    "Homepage": "Page d'accueil",
     "Language": "Langue",
     "Admin": "Administrateur"
   },
   "about": {
-    "Official website": "Official website",
+    "Official website": "Site officiel",
     "About": "A propos de",
     "Version": "Version",
     "Introduction": "L'introduction",
     "Introduction-content": "Casnode is the official forum for Casbin developers and users. It is an open source light forum"
   },
   "login": {
-    "Are you a bot?": "Are you a bot?",
+    "Are you a bot?": "Etes-vous un robot?",
     "Please enter the verification code in the picture above": "Please enter the verification code in the picture above"
   },
   "signup": {
     "Send the verification code again in": "Send the verification code again in",
     "seconds": "seconds",
-    "Validate Code": "Validate Code",
+    "Validate Code": "Valider le code",
     "Click to send validate code": "Click to send validate code",
     "Continue with Mobile Phone": "Continue with Mobile Phone",
     "Continue with QQ": "Continue with QQ",
